@@ -1,0 +1,15 @@
+{
+    "reads": "data/*_R{1,2}_001.fastq.gz",
+    "wt_sequence": "data/EfrCD_WT.fa",
+    "outdir": "results_EfrCD",
+    "adapter_R1": "AGATCGGAAGAGCACACGTCTGAACTCCAGTCA",
+    "adapter_R2": "AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT",
+    "positions": "72 84 204 213 357 369 378 381 393 402 516 525 537 549 669 681 693 702 714 726 738 747 759 822 825 834 837 846 855 858 867 876 879 888 1011 1104 1230 1404 1473 1491 1566 1808 1820 1967 1976 2120 2135 2141 2144 2156 2165 2279 2288 2300 2312 2432 2444 2456 2465 2477 2489 2501 2510 2522 2600 2609 2612 2621 2630 2633 2642 2651 2654 2663 2789 2879 3005 3179 3248 3266 3341",
+    "nnk_positions": "",
+    "wt_ref_position": "717",
+    "wt_codon": "CCT",
+    "wt_count": "10000",
+    "readingframes": true,
+    "frameshift_position": "1719",
+    "frameshift_offset": "-4"
+}
